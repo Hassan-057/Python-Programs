@@ -25,7 +25,8 @@ import numpy as np
 
 # while creating a numpy array, any data type from above can be explicitly specified.
 myArray = np.arange(10)
-print(myArray)          # [0 1 2 3 4 5 6 7 8 9]
+print(myAay)          # [0 1 2 3 4 5 6 7 8 9]
+print("something")
 
 myArray = np.array(myArray, dtype = np.float32)
 print(myArray)          # [ 0.  1.  2.  3.  4.  5.  6.  7.  8.  9.]
