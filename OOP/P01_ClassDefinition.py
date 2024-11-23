@@ -12,3 +12,6 @@ print(firstObject.var)  #Accessing Class Attributes
 secondObject = MyFirstClass()
 print(secondObject)
 print(secondObject.var)
+
+print("Testing PR Agent" + secondObject)
+print("Test: "+secondObject.var)
