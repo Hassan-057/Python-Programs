@@ -8,7 +8,7 @@ myArray = np.arange(0, 30, 2)
 print(myArray)              # [ 0  2  4  6  8 10 12 14 16 18 20 22 24 26 28]
 
 myArrayReshaped = myArray.reshape(5, 3)
-print(myArrayReshaped)
+print(myAeshaped)
 
 # [[ 0  2  4]
 #  [ 6  8 10]
